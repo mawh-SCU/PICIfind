@@ -1,1 +1,2 @@
-# PICIfind
+# PICIfinder
+  install
